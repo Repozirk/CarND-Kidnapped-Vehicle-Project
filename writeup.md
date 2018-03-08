@@ -24,6 +24,7 @@ The project was created with the Udacity [Starter Code](https://github.com/udaci
 ##Result
 The Particlue Filter hit the criteria automatically checked by the terminal. A variaton of the particle number `num_particles` leads to a number of 100 for best results.
 
+![alt text][image1] 
 
 
 
