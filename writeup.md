@@ -1,4 +1,4 @@
-﻿﻿[//]: # (Image References)
+﻿[//]: # (Image References)
 [image1]: ./result/image1.PNG
 
 
